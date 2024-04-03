@@ -379,7 +379,3 @@ def vcrit(b, n, st):
         critical wind velocity for resonance due to vortex shedding in m/s."""
     return b * n / st
 
-
-if __name__ == '__main__':
-    webbrowser.open(
-        'https://educnet.enpc.fr/pluginfile.php/11069/mod_folder/content/0/EC1-1-4%20vent.pdf?forcedownload=1')
